@@ -4,7 +4,7 @@
 "json_popup_wait" : "Loading data from server . . .",
   
 "mode_no_ads" : false,
-"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
 // 
@@ -32,9 +32,9 @@
 
 "startapp" : "207749121",
 
-"admob_banner" : "ca-app-pub-3940256099942544/6300978111",
-"admob_inter" : "ca-app-pub-3940256099942544/1033173712",
-"admob_native" : "ca-app-pub-3940256099942544/2247696110",
+"admob_banner" : "ca-app-pub-3940256099942544/630097811x",
+"admob_inter" : "ca-app-pub-1003836792919645/2277391666",
+"admob_native" : "ca-app-pub-1003836792919645/6942916050",
 
 "hpk_alien" : "Used Cars For Sale",
 "hpkadmob1" : "Car Insurance",
@@ -52,13 +52,13 @@
 "unity_banner_id" : "banner",
 "unity_inters_id" : "interstitial",
 "unity_id" : 4045251,
-"unity_test" : true,
+"unity_test" : false,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
 "applovin_inters_id" : "YOUR_AD_UNIT_ID",
 
-"Button_Rating" : "Rate Now",
-"Button_Share" : "Share with your friends",
+"Button_Rating" : "Rate us",
+"Button_Share" : "Share",
 "Button_Start" : "Start",
 
 "exit_popup_dialog" : "Help us by giving a 5 stars rating, so we keep the spirit of providing the latest updates.",
