@@ -20,12 +20,12 @@
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 3,
+"inter_count" : 7,
 
 "enable_strap" : true,
-"enable_strap_Splah" : true,
+"enable_strap_Splah" : false,
 
-"ads_on_exit_dialog" : true,
+"ads_on_exit_dialog" : false,
 
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
@@ -57,13 +57,13 @@
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
 "applovin_inters_id" : "YOUR_AD_UNIT_ID",
 
-"Button_Rating" : "Rate us",
+"Button_Rating" : "Rate & Review",
 "Button_Share" : "Share",
 "Button_Start" : "Start",
 
 "exit_popup_dialog" : "Help us by giving a 5 stars rating, so we keep the spirit of providing the latest updates.",
 "rate_button" : "Rate us Now",
-"later_button" : "Rate Later",
+"later_button" : "Back to Home",
 "enable_Share_button" : true,
 "Share_TXT" : "Superb App Please Download Now ",
 "more_button" : "Share This App",
