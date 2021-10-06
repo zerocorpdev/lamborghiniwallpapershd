@@ -16,8 +16,8 @@
 //  Mode APPLOVIN    Applovin  backup Unity Backup Startapp
 //  Iklan native hanya bisa admob fan appodel
 
-"pengaturan_iklan_banner" : "ADMOB",
-"pengaturan_iklan_inter" : "APPLOVIN",
+"pengaturan_iklan_banner" : "APPLOVIN",
+"pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
 "inter_count" : 2,
@@ -64,10 +64,10 @@
 "exit_popup_dialog" : "Help us by giving a 5 stars rating, so we keep the spirit of providing the latest updates.",
 "rate_button" : "Rate us Now",
 "later_button" : "Back to Home",
-"enable_Share_button" : true,
+"enable_Share_button" : false,
 "Share_TXT" : "Superb App Please Download Now ",
-"more_button" : "Share This App",
-"url_more_apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE "
+"more_button" : "Recommended App",
+"url_more_apps" : "https://play.google.com/store/apps/details?id=com.racemaster.carracing.wallpaper"
 
   }
 }
