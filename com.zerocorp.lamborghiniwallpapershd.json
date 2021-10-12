@@ -17,7 +17,7 @@
 //  Iklan native hanya bisa admob fan appodel
 
 "pengaturan_iklan_banner" : "UNITY",
-"pengaturan_iklan_inter" : "UNITY",
+"pengaturan_iklan_inter" : "APPLOVIN",
 "pengaturan_iklan_native" : "ADMOB",
 
 "inter_count" : 3,
