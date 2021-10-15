@@ -17,7 +17,7 @@
 //  Iklan native hanya bisa admob fan appodel
 
 "pengaturan_iklan_banner" : "UNITY",
-"pengaturan_iklan_inter" : "APPLOVIN",
+"pengaturan_iklan_inter" : "UNITY",
 "pengaturan_iklan_native" : "ADMOB",
 
 "inter_count" : 3,
@@ -25,7 +25,7 @@
 "enable_strap" : true,
 "enable_strap_Splah" : false,
 
-"ads_on_exit_dialog" : true,
+"ads_on_exit_dialog" : false,
 
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
@@ -62,7 +62,7 @@
 "Button_Start" : "Start",
 
 "exit_popup_dialog" : "Help us by giving a 5 star rating so we keep the spirit of providing the latest updates",
-"rate_button" : "Rate and Review",
+"rate_button" : "Rate App",
 "later_button" : "Home",
 "enable_Share_button" : false,
 "Share_TXT" : "Superb App Please Download Now ",
