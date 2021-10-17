@@ -13,15 +13,15 @@
 // jika online maka akan memanggil data mp3 wallpaper yang ada di json online kalian
 //  jika offline maka akan mmanggil data mp3 wallpaper yang ada di json folder asset
 // online offline huruf kecil
-"MODE_MP3_ONLINE_OFFLINE" : "online",
+"MODE_MP3_ONLINE_OFFLINE" : "offline",
 
 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
-"ADS_ON_START" : false, // CTR NAIK PESAT
-"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+"MODE_NO_ADS" : false,
+"ADS_ON_START" : true, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
 
-"JSON_POPUP_WAIT" : "Server Json Ready . . .",
+"JSON_POPUP_WAIT" : "Please wait . . .",
 "MODE_NO_ADS_TRUE" : "Pro Version Actived",
 
 // PENGATURAN IKLAN
@@ -30,49 +30,39 @@
 // UNITY      backup startapp
 // TAPDAQ     backup unity backup startapp
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"PENGATURAN_IKLAN_BANNER" : "TAPDAQ",
+"PENGATURAN_IKLAN_INTER" : "TAPDAQ",
 "INTER_COUNT" : 20,
 
 "ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
 "ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_OPENADS" : "BIARKAN KOSONG",
+"ADMOB_OPENADS" : "",
 
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "12345",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4280721",
 
-"STARTAPPID" : "123154",
+"STARTAPPID" : "207749121",
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
-"TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
-"TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
+"TAPDAQ_APP_ID" : "616c4fa086c31c4e07c11034",
+"TAPDAQ_CLIENT_KEY" : "31f7e325-302b-4c9a-a2ba-ebd0dfd764dd",
 
 //  Exit Dialog
 //  Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
 //  help give us a 5 star rating, so we keep the spirit of providing the latest updates
 //  jika shre button "true" maka more button berubah fungsi menjadi share - more url hilang menjadi share
-"EXIT_POPUP_DIALOG" : "
-help give us a 5 star rating
-
-so we keep the spirit of providing the latest updates
-
-click rate now button
-",
-"RATE_BUTTON" : "Rate Now",
-"LATER_BUTTON" : "Rate Later",
-"ENABLE_SHARE_BUTTON" : true,
-"SHARE_TXT" : "
-this the best apps ever, ive try it and so awesome
-
-you need to try download this too bro
-",
-"MORE_BUTTON" : "Share Via Whatsapp",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.package.name"
+"EXIT_POPUP_DIALOG" : "Help us by giving a 5 star rating so we keep the spirit of providing the latest updates",
+"RATE_BUTTON" : "Rate App",
+"LATER_BUTTON" : "Home",
+"ENABLE_SHARE_BUTTON" : false,
+"SHARE_TXT" : "Share this app",
+"MORE_BUTTON" : "Recommended App",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.racemaster.carracing.wallpaper"
 
 }
 ]
