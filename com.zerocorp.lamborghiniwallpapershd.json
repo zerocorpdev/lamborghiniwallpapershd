@@ -16,11 +16,11 @@
 //  Mode APPLOVIN    Applovin  backup Unity Backup Startapp
 //  Iklan native hanya bisa admob fan appodel
 
-"pengaturan_iklan_banner" : "UNITY",
-"pengaturan_iklan_inter" : "UNITY",
-"pengaturan_iklan_native" : "UNITY",
+"pengaturan_iklan_banner" : "ADMOB",
+"pengaturan_iklan_inter" : "ADMOB",
+"pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 5,
+"inter_count" : 20,
 
 "enable_strap" : true,
 "enable_strap_Splah" : true,
@@ -32,9 +32,9 @@
 
 "startapp" : "207749121",
 
-"admob_banner" : "ca-app-pub-1003836792919645/5150464371",
-"admob_inter" : "ca-app-pub-1003836792919645/3837382706",
-"admob_native" : "ca-app-pub-1003836792919645/8898137699",
+"admob_banner" : "ca-app-pub-1003836792919645/4826209904",
+"admob_inter" : "ca-app-pub-1003836792919645/4591240330",
+"admob_native" : "ca-app-pub-1003836792919645/5435556326",
 
 "hpk_alien" : "Used Cars For Sale",
 "hpkadmob1" : "Car Insurance",
