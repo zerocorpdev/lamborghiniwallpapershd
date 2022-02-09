@@ -18,8 +18,8 @@
 
 "MODE_BACKUP_ADS" : true,
 "MODE_NO_ADS" : false,
-"ADS_ON_START" : true, // CTR NAIK PESAT
-"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+"ADS_ON_START" : false, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
 
 "JSON_POPUP_WAIT" : "Please wait . . .",
 "MODE_NO_ADS_TRUE" : "Pro Version Actived",
@@ -32,7 +32,7 @@
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
-"INTER_COUNT" : 1,
+"INTER_COUNT" : 20,
 
 "ADMOB_INTER" : "ca-app-pub-1003836792919645/4971421818",
 "ADMOB_BANNER" : "ca-app-pub-1003836792919645/4839382267",
@@ -47,7 +47,7 @@
 
 "STARTAPPID" : "207749121",
 "ENABLE_STRAP" : true,
-"ENABLE_STRAP_SPLAHSCREEN" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
 
 "TAPDAQ_APP_ID" : "616c4fa086c31c4e07c11034",
 "TAPDAQ_CLIENT_KEY" : "31f7e325-302b-4c9a-a2ba-ebd0dfd764dd",
@@ -56,11 +56,11 @@
 //  Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
 //  help give us a 5 star rating, so we keep the spirit of providing the latest updates
 //  jika shre button "true" maka more button berubah fungsi menjadi share - more url hilang menjadi share
-"EXIT_POPUP_DIALOG" : "Help us by giving a 5 star rating so we keep the spirit of providing the latest updates",
+"EXIT_POPUP_DIALOG" : "Help us by giving a 5 star rating so we keep the spirit of providing the latest updates.",
 "RATE_BUTTON" : "Rate App",
 "LATER_BUTTON" : "Home",
 "ENABLE_SHARE_BUTTON" : false,
-"SHARE_TXT" : "Super App Download Now",
+"SHARE_TXT" : "Superb App Download Now",
 "MORE_BUTTON" : "Recommended App",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.racemaster.carracing.wallpaper"
 
