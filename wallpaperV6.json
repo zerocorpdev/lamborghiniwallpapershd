@@ -19,49 +19,7 @@
       "link_redirect": "https://"
     }
   ],
-  "More":
-  [
-    {
-      "id":1,
-      "title":"Super Dino Go",
-      "image":"https://play-lh.googleusercontent.com/_1DV6Az6hVPOTU3k2q5HYyNCwqEH1Ifa_e9Xq4MMrgpFInT0ZPdew1djWL_DDFL_uP4=s180",
-      "link":"https://play.google.com/store/apps/details?id=com.superdinogo.adventureisland"
-    },
-    {
-      "id":2,
-      "title":"Crazy knife maker",
-      "image":"https://play-lh.googleusercontent.com/7LnoO1jyKKJYHCJbmJ4z8Y1IweFGtNKoA5ngLf8RGgCZoaWFTs2x5HODjv7X7DlrunI=s180",
-      "link":"https://play.google.com/store/apps/details?id=com.crazyknifemaker.knifehit.knifegame"
-    },
-    {
-      "id":3,
-      "title":"Guide for squid game",
-      "image":"https://play-lh.googleusercontent.com/XYdH9RLXNwgcd0sOcDN6UnoabrFj835GdUauPXYy6ZRbOXq2dCR9iAGulWMvvacOVgk=s180",
-      "link":"https://play.google.com/store/apps/details?id=com.zerocorp.squidgameguide"
-    }
-  ],
-
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
-
-    }
-  ],
-
+ 
   "Data":
   [
     {
