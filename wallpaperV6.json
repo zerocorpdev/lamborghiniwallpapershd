@@ -23,21 +23,21 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"Super Dino Go",
+      "image":"https://play-lh.googleusercontent.com/_1DV6Az6hVPOTU3k2q5HYyNCwqEH1Ifa_e9Xq4MMrgpFInT0ZPdew1djWL_DDFL_uP4=s180",
+      "link":"https://play.google.com/store/apps/details?id=com.superdinogo.adventureisland"
     },
     {
       "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "title":"Crazy knife maker",
+      "image":"https://play-lh.googleusercontent.com/7LnoO1jyKKJYHCJbmJ4z8Y1IweFGtNKoA5ngLf8RGgCZoaWFTs2x5HODjv7X7DlrunI=s180",
+      "link":"https://play.google.com/store/apps/details?id=com.crazyknifemaker.knifehit.knifegame"
     },
     {
       "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"Guide for squid game",
+      "image":"https://play-lh.googleusercontent.com/XYdH9RLXNwgcd0sOcDN6UnoabrFj835GdUauPXYy6ZRbOXq2dCR9iAGulWMvvacOVgk=s180",
+      "link":"https://play.google.com/store/apps/details?id=com.zerocorp.squidgameguide"
     }
   ],
 
