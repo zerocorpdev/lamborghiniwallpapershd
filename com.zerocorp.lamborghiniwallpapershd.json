@@ -20,10 +20,10 @@
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 1,
+"inter_count" : 5,
 
 "enable_strap" : true,
-"enable_strap_Splah" : false,
+"enable_strap_Splah" : true,
 
 "ads_on_exit_dialog" : false,
 
@@ -32,9 +32,9 @@
 
 "startapp" : "207749121",
 
-"admob_banner" : "ca-app-pub-1003836792919645/4839382267",
-"admob_inter" : "ca-app-pub-1003836792919645/4971421818",
-"admob_native" : "ca-app-pub-1003836792919645/6455893871",
+"admob_banner" : "ca-app-pub-1003836792919645/9570510321",
+"admob_inter" : "ca-app-pub-1003836792919645/3966312939",
+"admob_native" : "ca-app-pub-1003836792919645/6054771290",
 
 "hpk_alien" : "",
 "hpkadmob1" : "",
