@@ -49,8 +49,8 @@
 
 "appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
 
-"unity_banner_id" : "Banner_Androidx",
-"unity_inters_id" : "Interstitial_Androidx",
+"unity_banner_id" : "Banner_Android",
+"unity_inters_id" : "Interstitial_Android",
 "unity_id" : 42807211,
 "unity_test" : false,
 
