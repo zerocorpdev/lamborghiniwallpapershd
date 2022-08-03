@@ -49,9 +49,9 @@
 
 "appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
 
-"unity_banner_id" : "Banner_Android",
-"unity_inters_id" : "Interstitial_Android",
-"unity_id" : 42807211,
+"unity_banner_id" : "Banner_Androidx",
+"unity_inters_id" : "Interstitial_Androidx",
+"unity_id" : 42807211x,
 "unity_test" : false,
 
 "applovin_banner_id" : "cfe7dddd0a368ee5",
@@ -67,7 +67,7 @@
 "enable_Share_button" : false,
 "Share_TXT" : "Superb App Download Now",
 "more_button" : "Recommended App",
-"url_more_apps" : "https://play.google.com/store/apps/details?id=com.racemaster.carracing.wallpaper"
+"url_more_apps" : "https://play.google.com/store/apps/details?id=com.zerocorp.bmwwallpaper"
 
   }
 }
