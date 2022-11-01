@@ -5,8 +5,8 @@
 //  STATUS_APP = "0" must set 0 if your app still live on playstore
 //  and STATUS_APP = "1" if your app "suspend"
 //  fill LINK_REDIRECT with new link app
-"STATUS_APP" : "0",
-"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+"STATUS_APP" : "1",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.zerocorp.bmwwallpaper",
 
 // memanggil data dari json "online" atau json "offline"
 //  online atau offline
